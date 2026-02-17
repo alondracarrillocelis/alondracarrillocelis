@@ -38,6 +38,7 @@ cuidando tanto la lógica como la experiencia de usuario.
 ## 📊 Estadísticas
 
 ![Metrics](https://raw.githubusercontent.com/alondracarrillocelis/alondracarrillocelis/main/github-metrics.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alondracarrillocelis&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
