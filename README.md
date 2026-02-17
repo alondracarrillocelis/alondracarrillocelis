@@ -57,7 +57,7 @@ Sincronización de datos entre dispositivo wearable y app móvil.
 
 ## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alondracarrillocelis&layout=compact)
+![Metrics](https://raw.githubusercontent.com/alondracarrillocelis/alondracarrillocelis/main/github-metrics.svg)
 
 ---
 
