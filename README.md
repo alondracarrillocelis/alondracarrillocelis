@@ -32,26 +32,6 @@ cuidando tanto la lógica como la experiencia de usuario.
 - Firebase
 - MySQL
 
----
-
-## 📌 Proyectos Destacados
-
-### ⚽ Sistema de Gestión Deportiva
-Aplicación web con dashboard tipo bento, reservas y estadísticas.
-- Autenticación
-- Manejo de errores 
-- Diseño responsivo
-- Arquitectura modular
-
----
-
-### 📱 App Wearable + Mobile
-Sincronización de datos entre dispositivo wearable y app móvil.
-- Recepción de datos en tiempo real
-- UI adaptativa por tipo de dispositivo
-- Manejo de estado optimizado
-
-
 
 ---
 
